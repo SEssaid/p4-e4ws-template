@@ -1,0 +1,27 @@
+[submodule "org.protege.common"]
+	path = org.protege.common
+	url = ssh://git@dev.essaid.com/svn/protege4/org.protege.common
+[submodule "org.protege.editor.core.application"]
+	path = org.protege.editor.core.application
+	url = ssh://git@dev.essaid.com/svn/protege4/org.protege.editor.core.application
+[submodule "org.protege.editor.owl"]
+	path = org.protege.editor.owl
+	url = ssh://git@dev.essaid.com/svn/protege4/org.protege.editor.owl
+[submodule "org.semanticweb.owl.owlapi"]
+	path = org.semanticweb.owl.owlapi
+	url = ssh://git@dev.essaid.com/svn/protege4/org.semanticweb.owl.owlapi
+[submodule "binary"]
+	path = binary
+	url = ssh://git@dev.essaid.com/svn/protege4/binary
+[submodule "org.coode.dlquery"]
+	path = org.coode.dlquery
+	url = ssh://git@dev.essaid.com/svn/protege4/org.coode.dlquery
+[submodule "org.coode.owlviz"]
+	path = org.coode.owlviz
+	url = ssh://git@dev.essaid.com/svn/protege4/org.coode.owlviz
+[submodule "org.protege.jaxb"]
+	path = org.protege.jaxb
+	url = ssh://git@dev.essaid.com/svn/protege4/org.protege.jaxb
+[submodule "protege-base"]
+	path = protege-base
+	url = ssh://git@dev.essaid.com/svn/protege4/protege-base
