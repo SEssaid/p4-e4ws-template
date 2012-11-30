@@ -1,27 +1,27 @@
 [submodule "org.protege.common"]
 	path = org.protege.common
-	url = ssh://git@dev.essaid.com/svn/protege4/org.protege.common
+	url = https://github.com/sessaid/p4-plugins-org.protege.common.git
 [submodule "org.protege.editor.core.application"]
 	path = org.protege.editor.core.application
-	url = ssh://git@dev.essaid.com/svn/protege4/org.protege.editor.core.application
+	url = https://github.com/sessaid/p4-plugins-org.protege.editor.core.application.git
 [submodule "org.protege.editor.owl"]
 	path = org.protege.editor.owl
-	url = ssh://git@dev.essaid.com/svn/protege4/org.protege.editor.owl
+	url = https://github.com/sessaid/p4-plugins-org.protege.editor.owl.git
 [submodule "org.semanticweb.owl.owlapi"]
 	path = org.semanticweb.owl.owlapi
-	url = ssh://git@dev.essaid.com/svn/protege4/org.semanticweb.owl.owlapi
+	url = https://github.com/sessaid/p4-plugins-org.semanticweb.owl.owlapi.git
 [submodule "binary"]
 	path = binary
-	url = ssh://git@dev.essaid.com/svn/protege4/binary
+	url = https://github.com/sessaid/p4-plugins-binary.git
 [submodule "org.coode.dlquery"]
 	path = org.coode.dlquery
-	url = ssh://git@dev.essaid.com/svn/protege4/org.coode.dlquery
+	url = https://github.com/sessaid/p4-plugins-org.coode.dlquery.git
 [submodule "org.coode.owlviz"]
 	path = org.coode.owlviz
-	url = ssh://git@dev.essaid.com/svn/protege4/org.coode.owlviz
+	url = https://github.com/sessaid/p4-plugins-org.coode.owlviz.git
 [submodule "org.protege.jaxb"]
 	path = org.protege.jaxb
-	url = ssh://git@dev.essaid.com/svn/protege4/org.protege.jaxb
+	url = https://github.com/sessaid/p4-plugins-org.protege.jaxb.git
 [submodule "protege-base"]
 	path = protege-base
-	url = ssh://git@dev.essaid.com/svn/protege4/protege-base
+	url = https://github.com/sessaid/p4-protege-base.git
