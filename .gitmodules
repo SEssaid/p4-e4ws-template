@@ -25,3 +25,6 @@
 [submodule "protege-base"]
 	path = protege-base
 	url = https://github.com/sessaid/p4-protege-base.git
+[submodule "p4-files.misc"]
+	path = p4-files.misc
+	url = https://github.com/sessaid/p4-files.misc.git
