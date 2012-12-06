@@ -1,0 +1,20 @@
+
+
+
+2012-12-06
+==========
+Creating a branch (also in all submodules) for build 284. Changes: 
+	build 284 occured on revision 25909
+	coresponds to submodule commits:
+		binary 28b18624492de03098a4c2bbaf9317467eada467
+		org.coode.dlquery 6a64e26bc73c51bba3dab93f7056b4a7917fc88b
+		org.coode.owlviz f81bbcd5f1d0410cef4c3c24bd75b7c52cf4ef3b
+		org.protege.common 7dac194d2cdcb015d31206fcc8029d62c7180b57
+		org.protege.editor.core.application  2df68258ca7571933bc810b955f9a0b92fea8152
+		org.protege.editor.owl eb72824e3ec1cb4af6bcd885ce6defd3065622d9
+		org.protege.jaxb df9cc34c21702d6133606853d9b0e9028a2f68ac
+		org.semanticweb.owl.owlapi 7692e7993178cbfa7ac4c5afb58f05b1c95472ca
+		p4-files.misc start with base 815783ce7137cadf9b7d4e48d968df3fcc7b67e6
+		p4-ide-eclipse-41 2d8bb40eca3241c01ea36558395727ab0ac5a4d7
+		protege-base d1adeca9d8428f3ddb10c400000c9a76485da4bb
+		
