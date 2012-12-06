@@ -28,3 +28,6 @@
 [submodule "p4-files.misc"]
 	path = p4-files.misc
 	url = https://github.com/sessaid/p4-files.misc.git
+[submodule "p4-ide-eclipse-41"]
+	path = p4-ide-eclipse-41
+	url = https://github.com/sessaid/p4-ide-eclipse-41.git
